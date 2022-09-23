@@ -5,7 +5,11 @@
   "private": false,
   "license": "MIT",
   "dependencies": {
+    "@emotion/react": "~11.10.4",
+    "@emotion/styled": "~11.10.4",
     "@hospitalrun/components": "~3.4.0",
+    "@mui/icons-material": "~5.10.6",
+    "@mui/material": "~5.10.6",
     "@reduxjs/toolkit": "~1.7.0",
     "@types/escape-string-regexp": "~2.0.1",
     "@types/json2csv": "~5.0.1",
